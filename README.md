@@ -7,8 +7,11 @@
   2、添加一条员工的信息。
 
   3、新增数据需要校验：
+  
               jQuery 前端校验用户名和邮箱是否合法。
+              
               Ajax 请求校验用户名是否重复。
+              
               JSR 303 后端校验用户名、邮箱是否合法以及用户名是否重复。
               
   4、编辑修改某条员工的信息。
@@ -18,6 +21,7 @@
   6、RESTful 风格的URI。
 
 <h2>涉及的技术</h2>
+
   1、后端框架：SSM（Spring 5 + Spring MVC + MyBatis 3）+ Maven 3.6.3
 
   2、MyBatis 分页插件：PageHelper
